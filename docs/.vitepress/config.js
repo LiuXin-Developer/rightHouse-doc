@@ -6,11 +6,11 @@ module.exports = {
   // 打包目录
   dest: './dist',
   lang: 'zh-CN',
-  base: '/RH-doc-release/',
+  base: '/',
   // 头部head
   head: [
     // 添加图标
-    ['link', { rel: 'icon', href: '/RH-doc-release/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   // 使用插件
   plugins: [

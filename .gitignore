@@ -19,6 +19,7 @@ upload
 node_modules
 .DS_Store
 dist
+docs/.vitepress/cache
 unpackage
 dist-ssr
 coverage
