@@ -59,7 +59,7 @@ features:
 </style>
 <script setup>
 import axios from 'axios'
-  axios.get("https://server.right-house.love/api/docView/getDocInfo?type=1")
+  axios.get("https://server.liuxin-dev.cn/api/docView/getDocInfo?type=1")
 </script>
 
 <p align="center" style="margin-top:50px;">
