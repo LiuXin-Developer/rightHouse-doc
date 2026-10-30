@@ -57,10 +57,6 @@ features:
   }
 }
 </style>
-<script setup>
-import axios from 'axios'
-  axios.get("https://server.liuxin-dev.cn/api/docView/getDocInfo?type=1")
-</script>
 
 <p align="center" style="margin-top:50px;">
   <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">
