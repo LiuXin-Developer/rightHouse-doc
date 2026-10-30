@@ -3,10 +3,8 @@ module.exports = {
   title: '房适',
   // 网站描述
   description: '房适',
-  // 打包目录
-  dest: './dist',
   lang: 'zh-CN',
-  base: '/',
+  base: '/rightHouse-doc/',
   // 头部head
   head: [
     // 添加图标
